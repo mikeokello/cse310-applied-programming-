@@ -2,16 +2,16 @@
 # Week 01 Software Portfolio Document
 
 ## Student Information
-Name: [Your Full Name]
+Name: George Mike Okello
 Course: CSE 310 - Applied Programming
 Assignment: W01 Hello World Module
-Date Submitted: September 1, 2026
+Date Submitted: September 7, 2026
 
 ## 1. GitHub Repository
 I created a public GitHub repository for this project.
 
 GitHub Repository Link:
-https://github.com/your-username/hello-world
+https://github.com/mikeokello/cse310-applied-programming-
 
 Checklist:
 - [x] Public GitHub repository created
@@ -23,7 +23,7 @@ Checklist:
 The README.md file was completed and placed in the root folder of the project.
 
 README Link:
-https://github.com/your-username/hello-world/blob/main/README.md
+https://github.com/mikeokello/cse310-applied-programming-/blob/main/README.md
 
 Checklist:
 - [x] README.md is present at the root of the project
@@ -62,9 +62,9 @@ console.log("Hello World");
 This statement writes the text "Hello World" to the console when the program runs.
 
 ## 7. Time Spent
-I spent approximately 1 hour completing this assignment, including setup, coding, documentation, and video preparation.
+I spent approximately 2 hours completing this assignment, including setup, coding, documentation, and video preparation.
 
-Hours Reported: 1
+Hours Reported: 2
 
 ## 8. Final Checklist
 - [x] I created a public GitHub repository

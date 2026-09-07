@@ -8,16 +8,16 @@ paragraphs = [
     "Week 01 Software Portfolio Document",
     "",
     "Student Information",
-    "Name: [Your Full Name]",
+    "Name: George Mike Okello",
     "Course: CSE 310 - Applied Programming",
     "Assignment: W01 Hello World Module",
-    "Date Submitted: September 1, 2026",
+    "Date Submitted: September 7, 2026",
     "",
     "1. GitHub Repository",
     "I created a public GitHub repository for this project.",
     "",
     "GitHub Repository Link:",
-    "https://github.com/your-username/hello-world",
+    "https://github.com/mikeokello/cse310-applied-programming-",
     "",
     "Checklist:",
     "- [x] Public GitHub repository created",
@@ -29,7 +29,7 @@ paragraphs = [
     "The README.md file was completed and placed in the root folder of the project.",
     "",
     "README Link:",
-    "https://github.com/your-username/hello-world/blob/main/README.md",
+    "https://github.com/mikeokello/cse310-applied-programming-/blob/main/README.md",
     "",
     "Checklist:",
     "- [x] README.md is present at the root of the project",
@@ -64,9 +64,9 @@ paragraphs = [
     "This statement writes the text \"Hello World\" to the console when the program runs.",
     "",
     "7. Time Spent",
-    "I spent approximately 1 hour completing this assignment, including setup, coding, documentation, and video preparation.",
+    "I spent approximately 2 hours completing this assignment, including setup, coding, documentation, and video preparation.",
     "",
-    "Hours Reported: 1",
+    "Hours Reported: 2",
     "",
     "8. Final Checklist",
     "- [x] I created a public GitHub repository",
@@ -119,10 +119,10 @@ rels = '''<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 core = '''<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <cp:coreProperties xmlns:cp="http://schemas.openxmlformats.org/package/2006/metadata/core-properties" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <dc:title>CSE310 W01 Hello World Portfolio</dc:title>
-  <dc:creator>Student</dc:creator>
-  <cp:lastModifiedBy>Student</cp:lastModifiedBy>
-  <dcterms:created xsi:type="dcterms:W3CDTF">2026-09-01T00:00:00Z</dcterms:created>
-  <dcterms:modified xsi:type="dcterms:W3CDTF">2026-09-01T00:00:00Z</dcterms:modified>
+  <dc:creator>George Mike Okello</dc:creator>
+  <cp:lastModifiedBy>George Mike Okello</cp:lastModifiedBy>
+  <dcterms:created xsi:type="dcterms:W3CDTF">2026-09-07T00:00:00Z</dcterms:created>
+  <dcterms:modified xsi:type="dcterms:W3CDTF">2026-09-07T00:00:00Z</dcterms:modified>
 </cp:coreProperties>
 '''
 

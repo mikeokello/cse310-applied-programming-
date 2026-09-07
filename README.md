@@ -44,10 +44,10 @@ JavaScript (Node.js)
 The program is intentionally simple. The file `index.js` contains a single command, `console.log("Hello World")`, which sends the greeting to the terminal. This shows the basic flow of writing code, saving the file, and running it in a JavaScript environment.
 
 ## Author
-Student Name
+George Mike Okello
 
 ## Date
-September 1, 2026
+September 7, 2026
 
 ## Time Spent
-Approximately 1 hour
+Approximately 2 hours
