@@ -38,7 +38,7 @@ JavaScript (Node.js)
 - GitHub Repository: https://github.com/mikeokello/cse310-applied-programming-
 
 ## Video Demonstration
-- YouTube Video: https://www.youtube.com/watch?v=your-video-id
+-  Video Link: https://www.loom.com/share/e76cb2955e634a3e84d948d8f7199e29
 
 ## Code Walkthrough
 The program is intentionally simple. The file `index.js` contains a single command, `console.log("Hello World")`, which sends the greeting to the terminal. This shows the basic flow of writing code, saving the file, and running it in a JavaScript environment.

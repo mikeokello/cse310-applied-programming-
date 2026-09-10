@@ -37,7 +37,7 @@ Checklist:
 I created a public video that includes my face, a demonstration of the program running, and a walkthrough of the code.
 
 Video Link:
-https://www.youtube.com/watch?v=your-video-id
+https://www.loom.com/share/e76cb2955e634a3e84d948d8f7199e29
 
 Checklist:
 - [x] My face is visible in the video
