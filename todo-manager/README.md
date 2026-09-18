@@ -16,7 +16,7 @@ This software demonstrates file I/O, JSON handling, data sorting, and menu-drive
 - Language: Python 3.12
 - Libraries: json, os, datetime (standard library only)
 - IDE: VS Code and GitHub Codespace
-- GitHub: 
+- GitHub: https://github.com/mikeokello/cse310-applied-programming-/tree/main/todo-manager
 
 ## Useful Websites
 - Python JSON Docs: https://docs.python.org/3/library/json.html
@@ -30,3 +30,4 @@ This software demonstrates file I/O, JSON handling, data sorting, and menu-drive
 - Add user login
 
 ## Video Demo
+https://www.loom.com/share/b04c8a2681ae4beca6d50d38ddf8867f
