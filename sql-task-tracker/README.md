@@ -9,6 +9,8 @@ I wrote this software to fulfill Module 3 requirements and to learn how relation
 
 [Software Demo Video - Add your Zoom link here - 4-5 mins showing face + demo + code walkthrough]
 
+https://www.loom.com/share/608b6925cdf241cf9f82f4e771c49d50
+
 ## Relational Database
 I used **SQLite** with Python's `sqlite3` module. SQLite is a lightweight relational database perfect for this module.
 
